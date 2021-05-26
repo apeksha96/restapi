@@ -1,0 +1,35 @@
+What is Rest API?
+
+REpresentational State Transfer (REST) is a software architectural style that defines the constraints to 
+create web services. The web services that follows the REST architectural style is called RESTful API.
+
+What benefits? The web and its core protocol, HTTP, provide a stack of features:
+
+-Suitable actions (GET, POST, PUT, DELETE)
+-Caching
+-Redirection and forwarding
+-Security (encryption and authentication)
+
+--------------------------------------------------------------------------------------------
+
+EXPRESS :-
+Express is a minimal and flexible Node.js web application framework that provides a robust set of features to 
+develop web and mobile applications. It facilitates the rapid development of Node based Web applications. 
+Following are some of the core features of Express framework −
+
+-Allows to set up middlewares to respond to HTTP Requests.
+-Defines a routing table which is used to perform different actions based on HTTP Method and URL.
+-Allows to dynamically render HTML Pages based on passing arguments to templates.
+
+BODY_PARSER :-
+
+Body-parser is the Node.js body parsing middleware for handling JSON, Raw, Text and URL encoded form data. 
+It is responsible for parsing the incoming request bodies in a middleware before you handle it.
+
+What is CORS?
+
+    CORS is shorthand for Cross-Origin Resource Sharing. It is a mechanism to allow or restrict 
+requested resources on a web server depend on where the HTTP request was initiated.
+    This policy is used to secure a certain web server from access by other website or domain. 
+For example, only the allowed domains will be able to access hosted files in a server such as 
+a stylesheet, image, or a script.
